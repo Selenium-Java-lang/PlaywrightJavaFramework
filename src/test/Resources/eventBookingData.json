@@ -1,0 +1,30 @@
+[
+  {
+    "titleName" : "Infosys Interview",
+    "eventDescription": "first playwright interview with java",
+    "eventCategory" : "Workshop",
+    "eventCity" : "Bengaluru",
+    "eventVenue" : "Element Mall Banaswadi Bengaluru",
+    "eventDate" : "2026-12-25T14:30",
+    "ticketPrice": "2000",
+    "totalSeats" : "200",
+    "fullName" : "Siromani Afzal Guru",
+    "email"   : "chuha@gmail.com",
+    "phone"   : "+91 9000606689"
+
+  },
+  {
+    "titleName" : "Man Ki Baat",
+    "eventDescription": "PM has no wife so he wants to talk with common public",
+    "eventCategory" : "Workshop",
+    "eventCity" : "Bengaluru",
+    "eventVenue" : "Bharat Mandapam",
+    "eventDate" : "2026-12-25T14:30",
+    "ticketPrice": "2000",
+    "totalSeats" : "200",
+    "fullName" : "Daroga Happu Singh",
+    "email"   : "chuma@gmail.com",
+    "phone"   : "+91 9000696689"
+
+  }
+]
