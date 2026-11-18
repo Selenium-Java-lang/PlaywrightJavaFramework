@@ -41,7 +41,7 @@ public class TestBase {
         }else if(browserName.equals("webkit")){
             browser = playwright.webkit().launch();
         }else {
-            browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
+            browser = playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(true));
         }
         page = browser.newPage();
         // to use the env name using mvn command we updated our code so that
